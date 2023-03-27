@@ -7,8 +7,8 @@ jessica = User()
 john.age = 20
 jessica.age = 35
 
-print(john.age)
 print(jessica.age)
+print(john.age)
 
 def print_age(age):
     print("age:", age)
